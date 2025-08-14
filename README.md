@@ -2,7 +2,7 @@
 
 
 ## 🙋‍♂️ About Me
-I’m Mark, a senior at The University of Texas at Dallas majoring in Computer Science.  
+I’m Mark Armstrong, a senior at The University of Texas at Dallas majoring in Computer Science.  
 I love building impactful software 💻, exploring new tech 🚀, and solving real-world problems 🧩.  
 When I’m not coding, you’ll find me fishing 🎣, cooking 🍳, or weightlifting 🏋️‍♂️ — staying balanced fuels my creativity and problem-solving skills.
 
