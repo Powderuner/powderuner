@@ -7,7 +7,7 @@ I love building impactful software 💻, exploring new tech 🚀, and solving re
 When I’m not coding, you’ll find me fishing 🎣, cooking 🍳, or weightlifting 🏋️‍♂️ — staying balanced fuels my creativity and problem-solving skills.
 
 ## 🚀 Currently Working On
-Full-stack web development projects using CodeIgniter (PHP), MySQL, and modern frontend frameworks.
+Developing a machine learning–based real estate price prediction system that integrates public datasets, feature engineering, and predictive models to analyze and visualize housing market trends in selected U.S. regions.
 
 ## 📚 Currently Learning
 HTML, CSS, and JavaScript to sharpen my frontend development skills and create responsive, user-friendly interfaces.
